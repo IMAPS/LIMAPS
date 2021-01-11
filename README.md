@@ -1,5 +1,5 @@
 # LIMAPS
-LIMAPS (Legal Interoperability Maturity Assessment of a Public Service) is user-friendly online questionnaire, designed as a self-assessment tool to assist public service owners to evaluate key legal interoperability aspects of their digital public service.
+LIMAPS (Legal Interoperability Maturity Assessment of a Public Service) is a user-friendly online questionnaire, designed as a self-assessment tool to assist public service owners to evaluate key legal interoperability aspects of their digital public service.
 
 Legal interoperability focuses on the legal provisions that regulate the collaboration among different public administrations that operate under different legal mandates, as well as on limitations of data, information, knowledge share and reuse, and also, to legal interoperability enablers and manifestations that resolve legal incompatibilities and facilitate the interaction of the digital public services with its end users and other client services.
 
